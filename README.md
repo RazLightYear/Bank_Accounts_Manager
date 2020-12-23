@@ -3,8 +3,8 @@ A program to manage bank accounts and perform various actions. This project is n
 
 **THIS PROJECT IS STILL IN PROCESS!  NOT ALL FORMS AND METHODS ARE COMPLETED**
 
-**PLEASE NOTE THAT THE USERNAME AND PASSWORD FOR THE LOGIN PAGE IS: **
+**PLEASE NOTE THAT THE USERNAME AND PASSWORD FOR THE LOGIN PAGE IS:**
 
-**Username: "Test"
+**Username: "Test"**
 
 **Password: "123456"**
